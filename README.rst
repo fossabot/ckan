@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarctjones%2Fckan.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarctjones%2Fckan?ref=badge_shield)
+
 CKAN: The Open Source Data Portal Software
 ==========================================
 
@@ -83,3 +85,6 @@ It is open and licensed under the GNU Affero General Public License (AGPL) v3.0
 whose full text may be found at:
 
 http://www.fsf.org/licensing/licenses/agpl-3.0.html
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarctjones%2Fckan.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarctjones%2Fckan?ref=badge_large)
